@@ -48,7 +48,7 @@
     &nbsp;
     <div class="row m-0 justify-content-center align-items-center ">
 
-        <a class="btn btn-danger" href="https://github.com/ManuelBlaze" target="_blank"><i class="fab fa-github"></i> Manuel Alejandro Escobar Mira</a>
+        <a class="btn btn-danger" href="https://github.com/ManuelBlaze/Hospital" target="_blank"><i class="fab fa-github"></i> Manuel Alejandro Escobar Mira</a>
      </div>
     &nbsp;
 </body>
